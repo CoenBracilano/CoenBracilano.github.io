@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/graphing.png
+image: img/graph.png
 title: "Tic-Tac-Toe"
 date: 2022
 published: true
