@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tic-tac-toe.jpg
+image: img/Tic/tic-tac-toe.jpg
 title: "Tic-Tac-Toe"
 date: 2021
 published: true
