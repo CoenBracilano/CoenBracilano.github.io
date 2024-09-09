@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Tic/graph.png
-title: "Tic-Tac-Toe"
+title: "Simple Graphing Calculator"
 date: 2022
 published: true
 labels:
