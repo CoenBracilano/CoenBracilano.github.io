@@ -6,7 +6,7 @@
     "email": "coenb@hawaii.edu",
     "phone": "206-930-2042",
     "website": "https://CoenBracilano.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026 where I look to either persue a masters or enter the workforce as a technician or developer.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "CoenBracilano", "url": "http://github.com/changeme" },
@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Systems Programming" },
-    { "name": "Lighting Desgin" },
+    { "name": "Theatrical Electrician" },
     { "name": "Theatre Control Systems" },
     { "name": "Low Level Programming" },
     { "name": "Compilers" }
@@ -28,6 +28,18 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "WindowsOS", "Ubuntu", "Debian", "OpenSuse", "Git/GitHub"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Java", "C/C++", "Python"]
+    },
+    {
+      "name": "Drafting for groundplans and lightplots", 
+      "keywords": ["Vectorworks", "Spotlight", "Architect", "Landmark"]
+    },
+    {
+      "name": "QLab for Audio, Video, Projections",
+      "keywords": ["Qlab 4", "Qlab 5", "AV"]
     }
   ],
   "education": [
@@ -45,25 +57,45 @@
     {
       "company": "UH Manoa Department of Theatre and Dance",
       "position": "Production Assistant / Scenic Carpenter",
-      "website": "",
+      "website": "https://manoa.hawaii.edu/liveonstage/kennedy-theatre/",
       "startDate": "2023-02",
       "endDate": "Present",
       "summary": "Building sets and maintaining theatrical operations",
       "highlights": [
-        "Construct all of the sets and props for all UH Manoa Kenedy Theatre productions",
-        "Assist with lighting and electrics operations when needed", "Maintain the building and scene shop"
+        "Theatrical maintenance and operations", "Usage of lighting and electrical gear", "Working with rigging and flying equipment", "Brick loading", "Basic carpentry and metal working", "Painting and craft work", "Movement of scenery and other stage pieces", "Run crew as stagehand or board operator"
       ]
     },
     {
+      "company": "Ohana Arts Summer Productions",
+      "position": "Head Technician / House Electrician / Scenic Carpenter",
+      "website": "https://www.ohanaarts.org/",
+      "startDate": "2024-05",
+      "endDate": "2024-06",
+      "summary": "Working as part of the University of Hawaii at Manoa Kennedy Theatre Team to run all productions done by Ohana Arts at Kenedy Theatre",
+      "highlights": [
+       "General Theatre Technician / run crew",
+        "Worked with Kennedy Theatre staff as a house electrician, working to maintin the needed electrical systems for lighting, sound, projection, ect.",
+        "Worked with scenic designers to engineer set pieces and props", "Run crew Flyman", "Instalation Flyman", "Built/worked on sets and props", "Audio Technician - Setup/Install", "Audio Technician - Run Crew (A2)", "Followspot Operator", "Assited in lightboard cue programming (ETC)", "Ensured saftey while using fogger/hazer effects",  "Hang/Focus lighting technician", "QLab for sound and projections", "General theatre maintnence/upkeep", "Working with minors"
+      ]
+    }
+    {
       "company": "IATSE Local 15",
       "position": "Permit Worker",
-      "website": "",
+      "website": "https://ia15.org/",
       "startDate": "2021",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Working as an electrician, grip, technician, pusher/mover,",
-        "Numerous venues around the Seattle area on and off as needed."
+        "Loading/unloading instruments and gear",
+        "Hanging/removing soft goods, brick loading",
+        "Running/striking cables for lights, sound, and power",
+        "Hang/focus according to a light plot",
+        "Organized and added gels / gobos to lights",
+        "Experience with ETC console programming / patching",
+        "Experience with moving head fixture programming / patching",
+        "General theatrical maintenance, upkeep, and cleaning",
+        "Carpentry run crew",
+        "Truck Loading"
       ]
     }
   ]
