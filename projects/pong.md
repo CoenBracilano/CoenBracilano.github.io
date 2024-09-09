@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Pong/pongHomeScreen.png
+image: img/Tic/pongHomeScreen.png
 title: "Pong"
 date: 2021
 published: true
