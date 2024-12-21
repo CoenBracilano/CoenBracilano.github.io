@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SpotMeBro/newLogo.png
+image: img/Tic/tic-tac-toe.jpg
 title: "SpotMeBro"
 date: 2024
 published: true
