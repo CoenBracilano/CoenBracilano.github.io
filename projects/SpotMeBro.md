@@ -1,3 +1,4 @@
+---
 layout: project
 type: project
 image: img/SpotMeBro/newLogo.png
